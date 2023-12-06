@@ -1,10 +1,8 @@
-/* style1.css */
-
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #e6f7ff;
 }
 
 h1 {
@@ -16,7 +14,7 @@ h1 {
 form {
   width: 60%;
   margin: 0 auto;
-  background-color: #fff;
+  background-color: #c6e2ff;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -28,17 +26,17 @@ button {
   margin-bottom: 10px;
   width: calc(100% - 22px);
   border-radius: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid #99b3ff;
   font-size: 16px;
 }
 
 button {
-  background-color: #414741;
+  background-color: #0066cc;
   color: white;
   border: none;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #414741;
+  background-color: #004080; 
 }
